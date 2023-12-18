@@ -1,3 +1,12 @@
+
+
+
+
+https://nextjs-travel-app-langing-page.vercel.app/
+
+![nextjs-travel-app-langing-page vercel app_](https://github.com/burcinismail8/nextjs-travel-app-langing-page/assets/70316198/882b0d1b-e8a2-4f31-af1a-ba77f4cab3cb)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
